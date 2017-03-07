@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
+# Calculator
 Just a test
